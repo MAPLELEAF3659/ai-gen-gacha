@@ -72,3 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /[Aa]ssets/[Ss]treamingAssets/SDImages.meta
 /[Aa]ssets/[Ss]treamingAssets/SDImages
+/[Aa]ssets/[Ss]treamingAssets/SDMaterials.meta
+/[Aa]ssets/[Ss]treamingAssets/SDMaterials
